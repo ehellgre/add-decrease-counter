@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddOrDecrease</string>
+    <string name="add_visitor_btn_txt">ADD VISITOR</string>
+    <string name="decrease_visitor_btn_txt">DECREASE VISITOR</string>
+    <string name="amount_of_visitors_txt">AMOUNT OF VISITORS</string>
+    <string name="add_count_txt"></string>
+    <string name="reset_btn_txt">RESET</string>
+</resources>

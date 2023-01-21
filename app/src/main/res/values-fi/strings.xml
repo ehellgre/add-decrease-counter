@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AddOrDecrease</string>
+    <string name="add_visitor_btn_txt">Lisää käyttäjä</string>
+    <string name="decrease_visitor_btn_txt">Vähennä käyttäjä</string>
+    <string name="amount_of_visitors_txt">Käyttäjien määrä</string>
+    <string name="add_count_txt"></string>
+    <string name="reset_btn_txt">Nollaa</string>
+</resources>
